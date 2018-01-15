@@ -1,2 +1,2 @@
 # AnimeClub
-Anime community site to share you love of anime.
+Anime community site to share your love of anime.
